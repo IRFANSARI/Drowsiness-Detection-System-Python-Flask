@@ -11,7 +11,7 @@
   * First of all, clone this repository on your pc.
     ```
     git clone https://github.com/IRFANSARI/Drowsiness-Detection-System.git
-    cd Drowsiness-Detection-System
+    cd Drowsiness-Detection-System-Python-Flask
     ```
     
   * To install all the dependencies which will be required, double click on ```install_dependencies.bat``` file or write this command on cmd and wait for it to finish.
